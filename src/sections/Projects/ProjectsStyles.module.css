@@ -26,10 +26,12 @@
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 30px;
+  gap: 40px;
 }
 
-@media (width >= 800px) {
+
+
+@media (width >=800px) {
   .projectsContainer {
     flex-direction: row;
     flex-wrap: wrap;
